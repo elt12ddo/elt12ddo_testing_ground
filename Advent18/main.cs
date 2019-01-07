@@ -7,6 +7,8 @@ namespace Day1{
         {
             Day1Part1 p1 = new Day1Part1();
             p1.findValue();
+            Day1Part2 p2 = new Day1Part2();
+            p2.findFreq();
 
         }
     }
