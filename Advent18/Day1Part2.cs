@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Day1{
+namespace Advent{
 
     public class Day1Part2{
 

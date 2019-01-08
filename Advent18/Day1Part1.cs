@@ -1,11 +1,11 @@
 using System;
 
-namespace Day1{
+namespace Advent{
 
     public class Day1Part1{
 
         public void findValue(){
-                string[] lines = System.IO.File.ReadAllLines(@"D:\Gitrepos\Testing_ground\elt12ddo_testing_ground\Advent18\data.txt");
+                string[] lines = System.IO.File.ReadAllLines(@"D:\Gitrepos\Testing_ground\elt12ddo_testing_ground\Advent18\data1.txt");
 
                 char add = '+';
                 char subtract = '-';
