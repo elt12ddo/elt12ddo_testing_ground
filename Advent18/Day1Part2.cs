@@ -6,7 +6,7 @@ namespace Advent{
     public class Day1Part2{
 
         public void findFreq(){
-                string[] lines = System.IO.File.ReadAllLines(@"D:\Gitrepos\Testing_ground\elt12ddo_testing_ground\Advent18\data.txt");
+                string[] lines = System.IO.File.ReadAllLines(@"D:\Gitrepos\Testing_ground\elt12ddo_testing_ground\Advent18\data1.txt");
 
                 char add = '+';
                 char subtract = '-';
